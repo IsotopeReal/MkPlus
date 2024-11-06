@@ -44,7 +44,7 @@ See below for more information.
 
 | Logistics  | Mk Plus  | Power Consumption  | /p min  | Other  | 
 | --------- | --------- | --------- | --------- | --------- |
-| Conveyor Belt/Lift  | Mk.7 |  | 2000 |  Mk.6 Visuals  |
+| Conveyor Belt/Lift  | Mk.6+ |  | 2000 |  Mk.6 Visuals  |
 | Storage Container   | Mk.2/3/4 |  |  |  70/94/150 Slots  |
 | Fluid Buffer       | Mk.2/3 |  |  |  4800/9600 m³ Storage |
 | Pipeline Pump      | Mk.3 | 20 MW |  |  100m Headlift  |
@@ -62,6 +62,7 @@ See below for more information.
 | Packager        | Mk.2/3 | 25/45 MW |  Mk3: 1x Extra Pipe Input/Output |
 | Manufacturer    | Mk.2/3 | 150/255 MW |   |
 | Blender         | Mk.2/3 | 175/350 MW |  Mk2: 1x Extra Pipe In/Out - Mk3: 2x Extra Pipe In/Out |
+| Converter       | Mk.2 |  250 MW |   |
 | Particle Accel  | Mk.2 | 550 MW |  1x Extra Pipe Input  |
 | Quantum Encoder  | Mk.2/3 | 2000/6000 MW |  Mk3: 2x Extra Pipe Input/Output  |
 
