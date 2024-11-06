@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.4",
+	"FriendlyName": "MkPlus",
+	"Description": "MkPlus adds 40+ new upgraded versions of machines split between 3 different unlockable tiers. Some machines have extra inputs/outputs to keep up with production. Daisy chain support.",
+	"Category": "Modding",
+	"CreatedBy": "Isotope",
+	"CreatedByURL": "https://github.com/IsotopeReal/MkPlus",
+	"DocsURL": "https://github.com/IsotopeReal/MkPlus",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/wkz6b7zrva",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		}
+	],
+	"SemVersion": "1.0.4",
+	"GameVersion": ">=365306"
+}
