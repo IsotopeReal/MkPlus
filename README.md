@@ -16,7 +16,7 @@ See below for more information.
 
 |          | Mk.2 Plus | Mk.3 Plus | Mk.4 Plus |
 | -------- | -------- | -------- | ------- |
-| Tier Unlocked      | 4     | 6   | 8 & 9     |
+| Tier Unlocked      | 4     | 6   | 8 and 9 |
 | Power Connections  | 3     | 7   | 12    |
 | Speed (May vary)   | 1.5x  | 2x  | 3-4x  |
 | Power (May vary)   | 2x    | 3x  | 4-5x  |
@@ -31,7 +31,7 @@ See below for more information.
 
 | Miner  | Mk Plus  | Power Consumption  | /p min  | Other  | 
 | --------- | --------- | --------- | --------- | --------- |
-| Miner  | Mk.4/5 | 110/270 MW | 800/2400 |  Mk5: 2x Extra Outputs |
+| Miner  | Mk.4/5 | 110/270 MW | 400/1200 |  Mk5: 2x Extra Outputs |
 
 
 | Generators  | Mk Plus  | Power Production  | Other  | 
