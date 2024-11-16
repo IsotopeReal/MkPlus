@@ -2,7 +2,7 @@
 MkPlus
 ------------------------
 
-MkPlus adds 40+ new upgraded versions of machines split between 3 different unlockable tiers.
+MkPlus adds 40+ new upgraded versions of machines split between 4 different unlockable tiers.
 
 Some machines have extra inputs/outputs to keep up with production. All vanilla machine models.\
 Each tier will increase the power connections per machine for daisy chaining support.
@@ -16,7 +16,7 @@ See below for more information.
 
 |          | Mk.2 Plus | Mk.3 Plus | Mk.4 Plus |
 | -------- | -------- | -------- | ------- |
-| Tier Unlocked      | 4     | 6   | 9     |
+| Tier Unlocked      | 4     | 6   | 8 & 9     |
 | Power Connections  | 3     | 7   | 12    |
 | Speed (May vary)   | 1.5x  | 2x  | 3-4x  |
 | Power (May vary)   | 2x    | 3x  | 4-5x  |
