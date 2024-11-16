@@ -22,5 +22,11 @@
 		}
 	],
 	"SemVersion": "1.0.5",
-	"GameVersion": ">=377620"
+	"GameVersion": ">=377620",
+	"LocalizationTargets": [
+		{
+			"Name": "MkPlusIso",
+			"LoadingPolicy": "Always"
+		}
+	]
 }

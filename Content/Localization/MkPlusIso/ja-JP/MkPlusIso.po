@@ -1,0 +1,540 @@
+﻿# MkPlusIso Japanese (Japan) translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MkPlusIso\n"
+"POT-Creation-Date: 2024-11-16 01:27\n"
+"PO-Revision-Date: 2024-11-16 01:27\n"
+"Language-Team: \n"
+"Language: ja-JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	38F345F74D35CB21A4AD6BB78B759B04
+#. SourceLocation:	/MkPlusIso/Build/Assembler/Build_AssemblerMk2.Default__Build_AssemblerMk2_C.mDisplayName
+#: /MkPlusIso/Build/Assembler/Build_AssemblerMk2.Default__Build_AssemblerMk2_C.mDisplayName
+msgctxt ",38F345F74D35CB21A4AD6BB78B759B04"
+msgid "Assembler Mk.2"
+msgstr "組立機 Mk.2"
+
+#. Key:	F877778445A33D827799E793252E7E88
+#. SourceLocation:	/MkPlusIso/Build/Assembler/Build_AssemblerMk3.Default__Build_AssemblerMk3_C.mDisplayName
+#: /MkPlusIso/Build/Assembler/Build_AssemblerMk3.Default__Build_AssemblerMk3_C.mDisplayName
+msgctxt ",F877778445A33D827799E793252E7E88"
+msgid "Assembler Mk.3"
+msgstr "組立機 Mk.3"
+
+#. Key:	7BF82682425C39926F1D3F9F3ED937A5
+#. SourceLocation:	/MkPlusIso/Build/Assembler/Build_AssemblerMk4.Default__Build_AssemblerMk4_C.mDisplayName
+#: /MkPlusIso/Build/Assembler/Build_AssemblerMk4.Default__Build_AssemblerMk4_C.mDisplayName
+msgctxt ",7BF82682425C39926F1D3F9F3ED937A5"
+msgid "Assembler Mk.4"
+msgstr "組立機 Mk.4"
+
+#. Key:	8557BB4843DE3B70D5FB44973E523BAB
+#. SourceLocation:	/MkPlusIso/Build/BiomassBurner/Build_BiomassBurnerMk2.Default__Build_BiomassBurnerMk2_C.mDisplayName
+#: /MkPlusIso/Build/BiomassBurner/Build_BiomassBurnerMk2.Default__Build_BiomassBurnerMk2_C.mDisplayName
+msgctxt ",8557BB4843DE3B70D5FB44973E523BAB"
+msgid "Biomass Burner Mk.2"
+msgstr "バイオマス・ バーナー Mk..2"
+
+#. Key:	7FF579B34FD67D6661012F8BBC85EB4E
+#. SourceLocation:	/MkPlusIso/Build/Blender/Build_BlenderMk2.Default__Build_BlenderMk2_C.mDisplayName
+#: /MkPlusIso/Build/Blender/Build_BlenderMk2.Default__Build_BlenderMk2_C.mDisplayName
+msgctxt ",7FF579B34FD67D6661012F8BBC85EB4E"
+msgid "Blender Mk.2"
+msgstr "混合機 Mk.2"
+
+#. Key:	07F52342444968A44C0C7FB3F269CB2D
+#. SourceLocation:	/MkPlusIso/Build/Blender/Build_BlenderMk3.Default__Build_BlenderMk3_C.mDisplayName
+#: /MkPlusIso/Build/Blender/Build_BlenderMk3.Default__Build_BlenderMk3_C.mDisplayName
+msgctxt ",07F52342444968A44C0C7FB3F269CB2D"
+msgid "Blender Mk.3"
+msgstr "混合機 Mk.3"
+
+#. Key:	98163997480EC1C31D7DDAB8637C3092
+#. SourceLocation:	/MkPlusIso/Build/CoalGenerator/Build_CoalGeneratorMk2.Default__Build_CoalGeneratorMk2_C.mDisplayName
+#: /MkPlusIso/Build/CoalGenerator/Build_CoalGeneratorMk2.Default__Build_CoalGeneratorMk2_C.mDisplayName
+msgctxt ",98163997480EC1C31D7DDAB8637C3092"
+msgid "Coal-Powered Gen Mk.2"
+msgstr "石炭発電機 Mk.2"
+
+#. Key:	7FB12D7840A2BDB90D1D4BA7C232167B
+#. SourceLocation:	/MkPlusIso/Build/CoalGenerator/Build_CoalGeneratorMk3.Default__Build_CoalGeneratorMk3_C.mDisplayName
+#: /MkPlusIso/Build/CoalGenerator/Build_CoalGeneratorMk3.Default__Build_CoalGeneratorMk3_C.mDisplayName
+msgctxt ",7FB12D7840A2BDB90D1D4BA7C232167B"
+msgid "Coal-Powered Gen Mk.3"
+msgstr "石炭発電機 Mk.3"
+
+#. Key:	5382C1414E2C038016F1129D79A329F0
+#. SourceLocation:	/MkPlusIso/Build/Constructor/Build_ConstructorMk2.Default__Build_ConstructorMk2_C.mDisplayName
+#: /MkPlusIso/Build/Constructor/Build_ConstructorMk2.Default__Build_ConstructorMk2_C.mDisplayName
+msgctxt ",5382C1414E2C038016F1129D79A329F0"
+msgid "Constructor Mk.2"
+msgstr "製作機 Mk.2"
+
+#. Key:	8D2EF58F4F9FB8750EC8C1BECCE0921E
+#. SourceLocation:	/MkPlusIso/Build/Constructor/Build_ConstructorMk3.Default__Build_ConstructorMk3_C.mDisplayName
+#: /MkPlusIso/Build/Constructor/Build_ConstructorMk3.Default__Build_ConstructorMk3_C.mDisplayName
+msgctxt ",8D2EF58F4F9FB8750EC8C1BECCE0921E"
+msgid "Constructor Mk.3"
+msgstr "製作機 Mk.3"
+
+#. Key:	0E9FF5AC443AA4E640378FA3854AE23F
+#. SourceLocation:	/MkPlusIso/Build/Constructor/Build_ConstructorMk4.Default__Build_ConstructorMk4_C.mDisplayName
+#: /MkPlusIso/Build/Constructor/Build_ConstructorMk4.Default__Build_ConstructorMk4_C.mDisplayName
+msgctxt ",0E9FF5AC443AA4E640378FA3854AE23F"
+msgid "Constructor Mk.4"
+msgstr "製作機 Mk.4"
+
+#. Key:	A997C3C54A74863FAFFD60B91C8F015C
+#. SourceLocation:	/MkPlusIso/Build/Converter/Build_ConverterMk2.Default__Build_ConverterMk2_C.mDisplayName
+#: /MkPlusIso/Build/Converter/Build_ConverterMk2.Default__Build_ConverterMk2_C.mDisplayName
+msgctxt ",A997C3C54A74863FAFFD60B91C8F015C"
+msgid "Converter Mk.2"
+msgstr "変換機 Mk.2"
+
+#. Key:	8C4EF7A946F1B36DFA3FB4A28EC3674F
+#. SourceLocation:	/MkPlusIso/Build/Conveyors/Build_ConveyorBeltMk66.Default__Build_ConveyorBeltMk66_C.mDescription
+#: /MkPlusIso/Build/Conveyors/Build_ConveyorBeltMk66.Default__Build_ConveyorBeltMk66_C.mDescription
+msgctxt ",8C4EF7A946F1B36DFA3FB4A28EC3674F"
+msgid "Transports up to 2000 resources per minute. Used to move resources between buildings."
+msgstr ""
+
+#. Key:	5EDB36A9439C47C00FDB2F885C8A9CC2
+#. SourceLocation:	/MkPlusIso/Build/Conveyors/Build_ConveyorBeltMk66.Default__Build_ConveyorBeltMk66_C.mDisplayName
+#: /MkPlusIso/Build/Conveyors/Build_ConveyorBeltMk66.Default__Build_ConveyorBeltMk66_C.mDisplayName
+msgctxt ",5EDB36A9439C47C00FDB2F885C8A9CC2"
+msgid "Conveyor Belt Mk.6+"
+msgstr "コンベア・ベル ト Mk.6+"
+
+#. Key:	D5EA6A78450BE657509209BDA6819AF5
+#. SourceLocation:	/MkPlusIso/Build/Conveyors/Build_ConveyorLiftMk6P.Default__Build_ConveyorLiftMk6P_C.mDescription
+#: /MkPlusIso/Build/Conveyors/Build_ConveyorLiftMk6P.Default__Build_ConveyorLiftMk6P_C.mDescription
+msgctxt ",D5EA6A78450BE657509209BDA6819AF5"
+msgid "Transports up to 2000 resources per minute. Used to move resources between floors."
+msgstr ""
+
+#. Key:	DFC3BD0B4874FD15D0039A8C6CB0E215
+#. SourceLocation:	/MkPlusIso/Build/Conveyors/Build_ConveyorLiftMk6P.Default__Build_ConveyorLiftMk6P_C.mDisplayName
+#: /MkPlusIso/Build/Conveyors/Build_ConveyorLiftMk6P.Default__Build_ConveyorLiftMk6P_C.mDisplayName
+msgctxt ",DFC3BD0B4874FD15D0039A8C6CB0E215"
+msgid "Conveyor Lift Mk.6+"
+msgstr "コンベア・リフト Mk.6+"
+
+#. Key:	85F8ABF944F5064C0C1D40B9BBD0574B
+#. SourceLocation:	/MkPlusIso/Build/Conveyors/Recipe_ConveyorLiftMk6P.Default__Recipe_ConveyorLiftMk6P_C.mDisplayName
+#: /MkPlusIso/Build/Conveyors/Recipe_ConveyorLiftMk6P.Default__Recipe_ConveyorLiftMk6P_C.mDisplayName
+msgctxt ",85F8ABF944F5064C0C1D40B9BBD0574B"
+msgid "Conveyor Belt"
+msgstr "コンベア・ベル ト"
+
+#. Key:	F27D78BA41C401EC94432CAF81F687A1
+#. SourceLocation:	/MkPlusIso/Build/Drone/BP_DroneTransportMk2.Default__BP_DroneTransportMk2_C.mDescription
+#: /MkPlusIso/Build/Drone/BP_DroneTransportMk2.Default__BP_DroneTransportMk2_C.mDescription
+msgctxt ",F27D78BA41C401EC94432CAF81F687A1"
+msgid "Transports available input back and forth between its home Port and destination Ports. Drone Status and other details can be viewed at a Drone's home Port.\r\nMust be built on a Drone Port.\r\n\r\nHas 18 inventory slots.\r\n\r\nCan use any fuel type.\r\nRefuels at any of its connected Ports if possible."
+msgstr ""
+
+#. Key:	7E502FA342542FDFD1B829A5BC6B8F8C
+#. SourceLocation:	/MkPlusIso/Build/Drone/BP_DroneTransportMk2.Default__BP_DroneTransportMk2_C.mDisplayName
+#: /MkPlusIso/Build/Drone/BP_DroneTransportMk2.Default__BP_DroneTransportMk2_C.mDisplayName
+msgctxt ",7E502FA342542FDFD1B829A5BC6B8F8C"
+msgid "Drone Mk.2"
+msgstr "ドローン Mk.2"
+
+#. Key:	F81D81894746F39434ADC6A43D46FFEE
+#. SourceLocation:	/MkPlusIso/Build/Drone/Build_DroneStationMk2.Default__Build_DroneStationMk2_C.mDescription
+#: /MkPlusIso/Build/Drone/Build_DroneStationMk2.Default__Build_DroneStationMk2_C.mDescription
+msgctxt ",F81D81894746F39434ADC6A43D46FFEE"
+msgid "Functions as home Port to a single Drone, which transports available input back and forth between its home Port and destination Ports.\r\nDrone Ports can have one other Port assigned as their transport destination.\r\n\r\nThe Drone Port interface provides delivery details and allows management of Port connections."
+msgstr ""
+
+#. Key:	1586FD2A47065E2A4CC8D5B5CA19DF3D
+#. SourceLocation:	/MkPlusIso/Build/Drone/Build_DroneStationMk2.Default__Build_DroneStationMk2_C.mDisplayName
+#: /MkPlusIso/Build/Drone/Build_DroneStationMk2.Default__Build_DroneStationMk2_C.mDisplayName
+msgctxt ",1586FD2A47065E2A4CC8D5B5CA19DF3D"
+msgid "Drone Port Mk.2"
+msgstr "ドローンポート Mk.2"
+
+#. Key:	C06D1986444EAC913C85C881133587E6
+#. SourceLocation:	/MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk2.Default__Build_FluidBufferMk2_C.mDescription
+#: /MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk2.Default__Build_FluidBufferMk2_C.mDescription
+msgctxt ",C06D1986444EAC913C85C881133587E6"
+msgid "Holds up to 4800 m³ of fluid.\r\nHas Pipeline input and output ports."
+msgstr ""
+
+#. Key:	46CD7554464EC40BB61050AF17287F76
+#. SourceLocation:	/MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk2.Default__Build_FluidBufferMk2_C.mDisplayName
+#: /MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk2.Default__Build_FluidBufferMk2_C.mDisplayName
+msgctxt ",46CD7554464EC40BB61050AF17287F76"
+msgid "Fluid Buffer Mk.2"
+msgstr "液体タンク Mk.2"
+
+#. Key:	54ED5F96495DA09EED5520B9A0CD08A5
+#. SourceLocation:	/MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk3.Default__Build_FluidBufferMk3_C.mDescription
+#: /MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk3.Default__Build_FluidBufferMk3_C.mDescription
+msgctxt ",54ED5F96495DA09EED5520B9A0CD08A5"
+msgid "Holds up to 9600 m³ of fluid.\r\nHas Pipeline input and output ports."
+msgstr ""
+
+#. Key:	CB0309694575B354159D5E81869E6BDF
+#. SourceLocation:	/MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk3.Default__Build_FluidBufferMk3_C.mDisplayName
+#: /MkPlusIso/Build/FluidBuffer/Build_FluidBufferMk3.Default__Build_FluidBufferMk3_C.mDisplayName
+msgctxt ",CB0309694575B354159D5E81869E6BDF"
+msgid "Fluid Buffer Mk.3"
+msgstr "液体タンク Mk.3"
+
+#. Key:	697244D44D555B5D4081BE820FFF35BB
+#. SourceLocation:	/MkPlusIso/Build/Foundry/Build_FoundryMk2.Default__Build_FoundryMk2_C.mDisplayName
+#: /MkPlusIso/Build/Foundry/Build_FoundryMk2.Default__Build_FoundryMk2_C.mDisplayName
+msgctxt ",697244D44D555B5D4081BE820FFF35BB"
+msgid "Foundry Mk.2"
+msgstr "鋳造炉 Mk.2"
+
+#. Key:	5CF3B55F4902483ED292948568CE96BB
+#. SourceLocation:	/MkPlusIso/Build/Foundry/Build_FoundryMk3.Default__Build_FoundryMk3_C.mDisplayName
+#: /MkPlusIso/Build/Foundry/Build_FoundryMk3.Default__Build_FoundryMk3_C.mDisplayName
+msgctxt ",5CF3B55F4902483ED292948568CE96BB"
+msgid "Foundry Mk.3"
+msgstr "鋳造炉 Mk.3"
+
+#. Key:	C599EDE84E00780CA5EC91BCCE44023D
+#. SourceLocation:	/MkPlusIso/Build/Foundry/Build_FoundryMk4.Default__Build_FoundryMk4_C.mDisplayName
+#: /MkPlusIso/Build/Foundry/Build_FoundryMk4.Default__Build_FoundryMk4_C.mDisplayName
+msgctxt ",C599EDE84E00780CA5EC91BCCE44023D"
+msgid "Foundry Mk.4"
+msgstr "鋳造炉 Mk.4"
+
+#. Key:	6DD5D5F74BC4D72C4D884EAC14C29BF1
+#. SourceLocation:	/MkPlusIso/Build/FuelGenerator/Build_FuelGeneratorMk2.Default__Build_FuelGeneratorMk2_C.mDisplayName
+#: /MkPlusIso/Build/FuelGenerator/Build_FuelGeneratorMk2.Default__Build_FuelGeneratorMk2_C.mDisplayName
+msgctxt ",6DD5D5F74BC4D72C4D884EAC14C29BF1"
+msgid "Fuel-Powered Gen Mk.2"
+msgstr "燃料式発電機 Mk.2"
+
+#. Key:	2DFE5A2D4FE7EA9CBC62A5B5D8587DE8
+#. SourceLocation:	/MkPlusIso/Build/FuelGenerator/Build_FuelGeneratorMk3.Default__Build_FuelGeneratorMk3_C.mDisplayName
+#: /MkPlusIso/Build/FuelGenerator/Build_FuelGeneratorMk3.Default__Build_FuelGeneratorMk3_C.mDisplayName
+msgctxt ",2DFE5A2D4FE7EA9CBC62A5B5D8587DE8"
+msgid "Fuel-Powered Gen Mk.3"
+msgstr "燃料式発電機 Mk.3"
+
+#. Key:	558C73D7487F1DCB8D4F43818E2C5E7F
+#. SourceLocation:	/MkPlusIso/Build/Manufacturer/Build_ManufacturerMk2.Default__Build_ManufacturerMk2_C.mDisplayName
+#: /MkPlusIso/Build/Manufacturer/Build_ManufacturerMk2.Default__Build_ManufacturerMk2_C.mDisplayName
+msgctxt ",558C73D7487F1DCB8D4F43818E2C5E7F"
+msgid "Manufacturer Mk.2"
+msgstr "製造機 Mk.2"
+
+#. Key:	DD98D265416E6B3725EF7CB9679C89C2
+#. SourceLocation:	/MkPlusIso/Build/Manufacturer/Build_ManufacturerMk3.Default__Build_ManufacturerMk3_C.mDisplayName
+#: /MkPlusIso/Build/Manufacturer/Build_ManufacturerMk3.Default__Build_ManufacturerMk3_C.mDisplayName
+msgctxt ",DD98D265416E6B3725EF7CB9679C89C2"
+msgid "Manufacturer Mk.3"
+msgstr "製造機 Mk.3"
+
+#. Key:	57C4851741ABEDCC8F1F09BFA374D62D
+#. SourceLocation:	/MkPlusIso/Build/Miner/Build_MinerMk4.Default__Build_MinerMk4_C.mDescription
+#: /MkPlusIso/Build/Miner/Build_MinerMk4.Default__Build_MinerMk4_C.mDescription
+msgctxt ",57C4851741ABEDCC8F1F09BFA374D62D"
+msgid "Extracts solid resources from the resource node it is built on. \r\nDefault extraction rate is 400 resources per minute. \r\nExtraction rate varies based on resource node purity. Outputs all extracted resources onto connected Conveyor Belts."
+msgstr ""
+
+#. Key:	939B6E134BD431EC4E4822A8A78E4F1A
+#. SourceLocation:	/MkPlusIso/Build/Miner/Build_MinerMk4.Default__Build_MinerMk4_C.mDisplayName
+#: /MkPlusIso/Build/Miner/Build_MinerMk4.Default__Build_MinerMk4_C.mDisplayName
+msgctxt ",939B6E134BD431EC4E4822A8A78E4F1A"
+msgid "Miner Mk.4"
+msgstr "採鈜機 Mk.4"
+
+#. Key:	38007D9348CAC75E2C539F96BC47C48A
+#. SourceLocation:	/MkPlusIso/Build/Miner/Build_MinerMk5.Default__Build_MinerMk5_C.mDescription
+#: /MkPlusIso/Build/Miner/Build_MinerMk5.Default__Build_MinerMk5_C.mDescription
+msgctxt ",38007D9348CAC75E2C539F96BC47C48A"
+msgid "Extracts solid resources from the resource node it is built on. \r\nDefault extraction rate is 1200 resources per minute. \r\nExtraction rate varies based on resource node purity. Outputs all extracted resources onto connected Conveyor Belts."
+msgstr ""
+
+#. Key:	3C34247C4B332442ACDF7880460CA5A6
+#. SourceLocation:	/MkPlusIso/Build/Miner/Build_MinerMk5.Default__Build_MinerMk5_C.mDisplayName
+#: /MkPlusIso/Build/Miner/Build_MinerMk5.Default__Build_MinerMk5_C.mDisplayName
+msgctxt ",3C34247C4B332442ACDF7880460CA5A6"
+msgid "Miner Mk.5"
+msgstr "採鈜機 Mk.5"
+
+#. Key:	5523D4924F9F74CE73A9EDA4134E14BF
+#. SourceLocation:	/MkPlusIso/Build/NuclearGenerator/Build_NuclearGeneratorMk2.Default__Build_NuclearGeneratorMk2_C.mDisplayName
+#: /MkPlusIso/Build/NuclearGenerator/Build_NuclearGeneratorMk2.Default__Build_NuclearGeneratorMk2_C.mDisplayName
+msgctxt ",5523D4924F9F74CE73A9EDA4134E14BF"
+msgid "Nuclear Power Plant Mk.2"
+msgstr "原子力発電所 Mk.2"
+
+#. Key:	CF0836E64B05AA1E79A39C8525DC0D04
+#. SourceLocation:	/MkPlusIso/Build/OilPump/Build_OilPumpMk2.Default__Build_OilPumpMk2_C.mDescription
+#: /MkPlusIso/Build/OilPump/Build_OilPumpMk2.Default__Build_OilPumpMk2_C.mDescription
+msgctxt ",CF0836E64B05AA1E79A39C8525DC0D04"
+msgid "Extracts Crude Oil when built on an oil node. Extraction rates vary based on node purity.\r\n\r\nDefault Extraction Rate: 480 m³ of oil per minute.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr ""
+
+#. Key:	7733A8554A3E2CBB554D189B802A5CD5
+#. SourceLocation:	/MkPlusIso/Build/OilPump/Build_OilPumpMk2.Default__Build_OilPumpMk2_C.mDisplayName
+#: /MkPlusIso/Build/OilPump/Build_OilPumpMk2.Default__Build_OilPumpMk2_C.mDisplayName
+msgctxt ",7733A8554A3E2CBB554D189B802A5CD5"
+msgid "Oil Extractor Mk.2"
+msgstr "原油抽出機 Mk.2"
+
+#. Key:	8DBB2A33465220018C5425BCF403203E
+#. SourceLocation:	/MkPlusIso/Build/OilPump/Build_OilPumpMk3.Default__Build_OilPumpMk3_C.mDescription
+#: /MkPlusIso/Build/OilPump/Build_OilPumpMk3.Default__Build_OilPumpMk3_C.mDescription
+msgctxt ",8DBB2A33465220018C5425BCF403203E"
+msgid "Extracts Crude Oil when built on an oil node. Extraction rates vary based on node purity.\r\n\r\nDefault Extraction Rate: 720 m³ of oil per minute.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr ""
+
+#. Key:	D564384146CFA858BE32C888F07D9B26
+#. SourceLocation:	/MkPlusIso/Build/OilPump/Build_OilPumpMk3.Default__Build_OilPumpMk3_C.mDisplayName
+#: /MkPlusIso/Build/OilPump/Build_OilPumpMk3.Default__Build_OilPumpMk3_C.mDisplayName
+msgctxt ",D564384146CFA858BE32C888F07D9B26"
+msgid "Oil Extractor Mk.3"
+msgstr "原油抽出機 Mk.3"
+
+#. Key:	1F19868942EB0A99E1A4EA9322C27ACC
+#. SourceLocation:	/MkPlusIso/Build/Packager/Build_PackagerMk2.Default__Build_PackagerMk2_C.mDisplayName
+#: /MkPlusIso/Build/Packager/Build_PackagerMk2.Default__Build_PackagerMk2_C.mDisplayName
+msgctxt ",1F19868942EB0A99E1A4EA9322C27ACC"
+msgid "Packager Mk.2"
+msgstr "充填機 Mk.2"
+
+#. Key:	87DB94AC4A0E156E9DF43E86227A7132
+#. SourceLocation:	/MkPlusIso/Build/Packager/Build_PackagerMk3.Default__Build_PackagerMk3_C.mDisplayName
+#: /MkPlusIso/Build/Packager/Build_PackagerMk3.Default__Build_PackagerMk3_C.mDisplayName
+msgctxt ",87DB94AC4A0E156E9DF43E86227A7132"
+msgid "Packager Mk.3"
+msgstr "充填機 Mk.3"
+
+#. Key:	C39C9AE84B61CAFAC8E8C29947FC14B2
+#. SourceLocation:	/MkPlusIso/Build/ParticleAccelerator/Build_HadronColliderMk2.Default__Build_HadronColliderMk2_C.mDisplayName
+#: /MkPlusIso/Build/ParticleAccelerator/Build_HadronColliderMk2.Default__Build_HadronColliderMk2_C.mDisplayName
+msgctxt ",C39C9AE84B61CAFAC8E8C29947FC14B2"
+msgid "Particle Accel Mk.2"
+msgstr "粒子加速器 Mk.2"
+
+#. Key:	D99993E144BEC56E5A7DA8920BACF348
+#. SourceLocation:	/MkPlusIso/Build/PipelinePump/Build_PipelinePumpMk3.Default__Build_PipelinePumpMk3_C.mDescription
+#: /MkPlusIso/Build/PipelinePump/Build_PipelinePumpMk3.Default__Build_PipelinePumpMk3_C.mDescription
+msgctxt ",D99993E144BEC56E5A7DA8920BACF348"
+msgid "Can be attached to a Pipeline to apply Head Lift.\r\nMaximum Head Lift: 100 m\r\nPower Consumption: 20 MW\r\n(Allows fluids to be transported 100 meters upwards.)\r\n\r\nNOTE: Arrows and holograms when building indicate Head Lift direction.\r\nNOTE: Head Lift does not stack, so space between Pumps is recommended."
+msgstr ""
+
+#. Key:	A47F0B4C4F1ACD23B677C9994DC1C124
+#. SourceLocation:	/MkPlusIso/Build/PipelinePump/Build_PipelinePumpMk3.Default__Build_PipelinePumpMk3_C.mDisplayName
+#: /MkPlusIso/Build/PipelinePump/Build_PipelinePumpMk3.Default__Build_PipelinePumpMk3_C.mDisplayName
+msgctxt ",A47F0B4C4F1ACD23B677C9994DC1C124"
+msgid "Pipeline Pump Mk.3"
+msgstr "パイプラインポ ンプMk.3"
+
+#. Key:	E9A923334BEC10E3CE0B32884E4FEBF3
+#. SourceLocation:	/MkPlusIso/Build/PowerPole/Build_PowerTowerPMk2.Default__Build_PowerTowerPMk2_C.mDescription
+#: /MkPlusIso/Build/PowerPole/Build_PowerTowerPMk2.Default__Build_PowerTowerPMk2_C.mDescription
+msgctxt ",E9A923334BEC10E3CE0B32884E4FEBF3"
+msgid "Helps span Power Lines across greater distances.\r\nThere is an additional power connector at the bottom of the Power Tower to connect it to other buildings, such as Power Poles.\r\n\r\nNote: This Power Tower variant includes a ladder and platform for improved utility."
+msgstr ""
+
+#. Key:	8319051A42EA6E883FBCB28FD2074446
+#. SourceLocation:	/MkPlusIso/Build/PowerPole/Build_PowerTowerPMk2.Default__Build_PowerTowerPMk2_C.mDisplayName
+#: /MkPlusIso/Build/PowerPole/Build_PowerTowerPMk2.Default__Build_PowerTowerPMk2_C.mDisplayName
+msgctxt ",8319051A42EA6E883FBCB28FD2074446"
+msgid "Power Tower Mk.2"
+msgstr "送電塔 Mk.2"
+
+#. Key:	753C035B4971E6389586F09D380B467D
+#. SourceLocation:	/MkPlusIso/Build/PowerStorage/Build_PowerStorageMk2.Default__Build_PowerStorageMk2_C.mDescription
+#: /MkPlusIso/Build/PowerStorage/Build_PowerStorageMk2.Default__Build_PowerStorageMk2_C.mDescription
+msgctxt ",753C035B4971E6389586F09D380B467D"
+msgid "Connects to a power grid to store excess power produced. The stored power can be harnessed if power grid consumption exceeds production.\r\n\r\nStorage Capacity: 200 MWh (125 MW for 1 hour)\r\nMaximum Charge Rate: 150 MW\r\nMaximum Discharge Rate: Unlimited"
+msgstr ""
+
+#. Key:	127B1D0C47D6D38F2663459315E3EAB3
+#. SourceLocation:	/MkPlusIso/Build/PowerStorage/Build_PowerStorageMk2.Default__Build_PowerStorageMk2_C.mDisplayName
+#: /MkPlusIso/Build/PowerStorage/Build_PowerStorageMk2.Default__Build_PowerStorageMk2_C.mDisplayName
+msgctxt ",127B1D0C47D6D38F2663459315E3EAB3"
+msgid "Power Storage Mk.2"
+msgstr "蓄電装置 Mk.2"
+
+#. Key:	85D68C2A4D5A1D61D3F9FAA305D8F9D3
+#. SourceLocation:	/MkPlusIso/Build/PowerStorage/Build_PowerStorageMk3.Default__Build_PowerStorageMk3_C.mDescription
+#: /MkPlusIso/Build/PowerStorage/Build_PowerStorageMk3.Default__Build_PowerStorageMk3_C.mDescription
+msgctxt ",85D68C2A4D5A1D61D3F9FAA305D8F9D3"
+msgid "Connects to a power grid to store excess power produced. The stored power can be harnessed if power grid consumption exceeds production.\r\n\r\nStorage Capacity: 400 MWh (100 MW for 1 hour)\r\nMaximum Charge Rate: 500 MW\r\nMaximum Discharge Rate: Unlimited"
+msgstr ""
+
+#. Key:	8D4CCD4147BC923BB0F589AA17B13B51
+#. SourceLocation:	/MkPlusIso/Build/PowerStorage/Build_PowerStorageMk3.Default__Build_PowerStorageMk3_C.mDisplayName
+#: /MkPlusIso/Build/PowerStorage/Build_PowerStorageMk3.Default__Build_PowerStorageMk3_C.mDisplayName
+msgctxt ",8D4CCD4147BC923BB0F589AA17B13B51"
+msgid "Power Storage Mk.3"
+msgstr "蓄電装置 Mk.3"
+
+#. Key:	4613499343A3339272DC309B07582BD8
+#. SourceLocation:	/MkPlusIso/Build/QuantumEncoder/Build_QuantumEncoderMk2.Default__Build_QuantumEncoderMk2_C.mDisplayName
+#: /MkPlusIso/Build/QuantumEncoder/Build_QuantumEncoderMk2.Default__Build_QuantumEncoderMk2_C.mDisplayName
+msgctxt ",4613499343A3339272DC309B07582BD8"
+msgid "Quantum Encoder Mk.2"
+msgstr "量子工ソ⊃- Mk.2"
+
+#. Key:	906281094A5C6BE3607682B333BA4266
+#. SourceLocation:	/MkPlusIso/Build/QuantumEncoder/Build_QuantumEncoderMk3.Default__Build_QuantumEncoderMk3_C.mDisplayName
+#: /MkPlusIso/Build/QuantumEncoder/Build_QuantumEncoderMk3.Default__Build_QuantumEncoderMk3_C.mDisplayName
+msgctxt ",906281094A5C6BE3607682B333BA4266"
+msgid "Quantum Encoder Mk.3"
+msgstr "量子工ソ⊃- Mk.3"
+
+#. Key:	1E564D9B4154B5F182F39F9C083775BD
+#. SourceLocation:	/MkPlusIso/Build/Refinery/Build_OilRefineryMk2.Default__Build_OilRefineryMk2_C.mDisplayName
+#: /MkPlusIso/Build/Refinery/Build_OilRefineryMk2.Default__Build_OilRefineryMk2_C.mDisplayName
+msgctxt ",1E564D9B4154B5F182F39F9C083775BD"
+msgid "Refinery Mk.2"
+msgstr "精製機 Mk.2"
+
+#. Key:	67F568924614953418FEC8B93F6AD478
+#. SourceLocation:	/MkPlusIso/Build/Refinery/Build_OilRefineryMk3.Default__Build_OilRefineryMk3_C.mDisplayName
+#: /MkPlusIso/Build/Refinery/Build_OilRefineryMk3.Default__Build_OilRefineryMk3_C.mDisplayName
+msgctxt ",67F568924614953418FEC8B93F6AD478"
+msgid "Refinery Mk.3"
+msgstr "精製機 Mk.3"
+
+#. Key:	5353AF3149D3EA8C5822B4B183704F0B
+#. SourceLocation:	/MkPlusIso/Build/Refinery/Recipe_OilRefineryMk3.Default__Recipe_OilRefineryMk3_C.mDisplayName
+#: /MkPlusIso/Build/Refinery/Recipe_OilRefineryMk3.Default__Recipe_OilRefineryMk3_C.mDisplayName
+msgctxt ",5353AF3149D3EA8C5822B4B183704F0B"
+msgid "Oil Refinery Mk.3"
+msgstr "精製機 Mk.3"
+
+#. Key:	228A809F4D2EFBC52B80AF8D3657A5C0
+#. SourceLocation:	/MkPlusIso/Build/ResourceWell/Build_FrackingExtractorMk2.Default__Build_FrackingExtractorMk2_C.mDisplayName
+#: /MkPlusIso/Build/ResourceWell/Build_FrackingExtractorMk2.Default__Build_FrackingExtractorMk2_C.mDisplayName
+msgctxt ",228A809F4D2EFBC52B80AF8D3657A5C0"
+msgid "Well Extractor Mk.2"
+msgstr "地下資源抽出機 Mk.2"
+
+#. Key:	166B74CB48B87BAA31E7EAB78C582719
+#. SourceLocation:	/MkPlusIso/Build/ResourceWell/Build_FrackingSmasherMk2.Default__Build_FrackingSmasherMk2_C.mDisplayName
+#: /MkPlusIso/Build/ResourceWell/Build_FrackingSmasherMk2.Default__Build_FrackingSmasherMk2_C.mDisplayName
+msgctxt ",166B74CB48B87BAA31E7EAB78C582719"
+msgid "Resource Well Pressurizer Mk.2"
+msgstr "資源井加圧機 Mk.2"
+
+#. Key:	45AA2B664E56E1B7B758E683E3AE2081
+#. SourceLocation:	/MkPlusIso/Build/Smelter/Build_SmelterMk2.Default__Build_SmelterMk2_C.mDisplayName
+#: /MkPlusIso/Build/Smelter/Build_SmelterMk2.Default__Build_SmelterMk2_C.mDisplayName
+msgctxt ",45AA2B664E56E1B7B758E683E3AE2081"
+msgid "Smelter Mk.2"
+msgstr "製錬炉 Mk.2"
+
+#. Key:	8EF766354CBE2F5D11A0A2AF329667B2
+#. SourceLocation:	/MkPlusIso/Build/Smelter/Build_SmelterMk3.Default__Build_SmelterMk3_C.mDisplayName
+#: /MkPlusIso/Build/Smelter/Build_SmelterMk3.Default__Build_SmelterMk3_C.mDisplayName
+msgctxt ",8EF766354CBE2F5D11A0A2AF329667B2"
+msgid "Smelter Mk.3"
+msgstr "製錬炉 Mk.3"
+
+#. Key:	C291E023444951121623799963A7FEA3
+#. SourceLocation:	/MkPlusIso/Build/Smelter/Build_SmelterMk4.Default__Build_SmelterMk4_C.mDisplayName
+#: /MkPlusIso/Build/Smelter/Build_SmelterMk4.Default__Build_SmelterMk4_C.mDisplayName
+msgctxt ",C291E023444951121623799963A7FEA3"
+msgid "Smelter Mk.4"
+msgstr "製錬炉 Mk.4"
+
+#. Key:	3BEDBA1946F963DE0DD77198C374EDD2
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk3.Default__Build_StorageContainerMk3_C.mDescription
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk3.Default__Build_StorageContainerMk3_C.mDescription
+msgctxt ",3BEDBA1946F963DE0DD77198C374EDD2"
+msgid "Contains 70 slots for storing large amounts of items.\r\nHas 2 Conveyor Belt input ports and 2 Conveyor Belt output ports."
+msgstr ""
+
+#. Key:	43A2A9CA4E994D862D2FDA900455BF44
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk3.Default__Build_StorageContainerMk3_C.mDisplayName
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk3.Default__Build_StorageContainerMk3_C.mDisplayName
+msgctxt ",43A2A9CA4E994D862D2FDA900455BF44"
+msgid "Storage Container Mk.2"
+msgstr "貯蔵コンテナ Mk.2"
+
+#. Key:	13A0B89342B523097CF1B18C28AE3CB6
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk4.Default__Build_StorageContainerMk4_C.mDescription
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk4.Default__Build_StorageContainerMk4_C.mDescription
+msgctxt ",13A0B89342B523097CF1B18C28AE3CB6"
+msgid "Contains 94 slots for storing large amounts of items.\r\nHas 2 Conveyor Belt input ports and 2 Conveyor Belt output ports."
+msgstr ""
+
+#. Key:	FFA78DCF466B27D9595395BA36B6148B
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk4.Default__Build_StorageContainerMk4_C.mDisplayName
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk4.Default__Build_StorageContainerMk4_C.mDisplayName
+msgctxt ",FFA78DCF466B27D9595395BA36B6148B"
+msgid "Storage Container Mk.3"
+msgstr "貯蔵コンテナ Mk.3"
+
+#. Key:	0FD16D604A8E125D923D4697C6CD9855
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk5.Default__Build_StorageContainerMk5_C.mDescription
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk5.Default__Build_StorageContainerMk5_C.mDescription
+msgctxt ",0FD16D604A8E125D923D4697C6CD9855"
+msgid "Contains 150 slots for storing large amounts of items.\r\nHas 2 Conveyor Belt input ports and 2 Conveyor Belt output ports."
+msgstr ""
+
+#. Key:	F3AA073E4C7559BC6351EA8CFB6CB7CF
+#. SourceLocation:	/MkPlusIso/Build/StorageContainer/Build_StorageContainerMk5.Default__Build_StorageContainerMk5_C.mDisplayName
+#: /MkPlusIso/Build/StorageContainer/Build_StorageContainerMk5.Default__Build_StorageContainerMk5_C.mDisplayName
+msgctxt ",F3AA073E4C7559BC6351EA8CFB6CB7CF"
+msgid "Storage Container Mk.4"
+msgstr "貯蔵コンテナ Mk.4"
+
+#. Key:	8E5A498247E5FAE1B2E0BD8EBD7BC182
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk2.Default__Build_WaterPumpMk2_C.mDescription
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk2.Default__Build_WaterPumpMk2_C.mDescription
+msgctxt ",8E5A498247E5FAE1B2E0BD8EBD7BC182"
+msgid "Extracts water from the body of water it is built on.\r\nNote: the water needs to be sufficiently deep, and rivers are generally not deep enough.\r\n\r\nDefault Extraction Rate: 180 m³ of water per minute.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr ""
+
+#. Key:	CE99EF394549EE1472552B9979A9AC54
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk2.Default__Build_WaterPumpMk2_C.mDisplayName
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk2.Default__Build_WaterPumpMk2_C.mDisplayName
+msgctxt ",CE99EF394549EE1472552B9979A9AC54"
+msgid "Water Extractor Mk.2"
+msgstr "揚水ポンプ Mk.2"
+
+#. Key:	07C34A9349281B6F971C808AAD2D3069
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk3.Default__Build_WaterPumpMk3_C.mDescription
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk3.Default__Build_WaterPumpMk3_C.mDescription
+msgctxt ",07C34A9349281B6F971C808AAD2D3069"
+msgid "Extracts water from the body of water it is built on.\r\nNote: the water needs to be sufficiently deep, and rivers are generally not deep enough.\r\n\r\nDefault Extraction Rate: 240 m³ of water per minute.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr ""
+
+#. Key:	B6D513A941385565EE841BA0E3FF7E3B
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk3.Default__Build_WaterPumpMk3_C.mDisplayName
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk3.Default__Build_WaterPumpMk3_C.mDisplayName
+msgctxt ",B6D513A941385565EE841BA0E3FF7E3B"
+msgid "Water Extractor Mk.3"
+msgstr "揚水ポンプ Mk.3"
+
+#. Key:	224F14AD408D745C7712A0B237961E4E
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk4.Default__Build_WaterPumpMk4_C.mDescription
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk4.Default__Build_WaterPumpMk4_C.mDescription
+msgctxt ",224F14AD408D745C7712A0B237961E4E"
+msgid "Extracts water from the body of water it is built on.\r\nNote: the water needs to be sufficiently deep, and rivers are generally not deep enough.\r\n\r\nDefault Extraction Rate: 480 m³ of water per minute.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr ""
+
+#. Key:	A10CB3E24406C1C41CFBB08DDFA32113
+#. SourceLocation:	/MkPlusIso/Build/WaterPump/Build_WaterPumpMk4.Default__Build_WaterPumpMk4_C.mDisplayName
+#: /MkPlusIso/Build/WaterPump/Build_WaterPumpMk4.Default__Build_WaterPumpMk4_C.mDisplayName
+msgctxt ",A10CB3E24406C1C41CFBB08DDFA32113"
+msgid "Water Extractor Mk.4"
+msgstr "揚水ポンプ Mk.4"
+
+#. Key:	495375254AAC00FC797D10AB67E00052
+#. SourceLocation:	/MkPlusIso/Schematics/BC_MkPlus.Default__BC_MkPlus_C.mDisplayName
+#: /MkPlusIso/Schematics/BC_MkPlus.Default__BC_MkPlus_C.mDisplayName
+msgctxt ",495375254AAC00FC797D10AB67E00052"
+msgid "MkPlus"
+msgstr ""
+
