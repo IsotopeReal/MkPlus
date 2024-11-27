@@ -1,3 +1,5 @@
+Source is available for anyone to freely use, modify or update.  
+I grant the SMM team permission to update this mod in the event that I become inactive.
 
 MkPlus
 ------------------------
